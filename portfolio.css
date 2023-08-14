@@ -101,3 +101,21 @@ main #about-section .icon-div{
 #github-icon{
     width:2vw;
 }
+
+@media only screen and (max-width: 650px){
+    .AP-div{
+        width: 35%;
+    }
+    main #about-section{
+        width: 85%;
+    }
+    #profile-pic{
+        width: 20vw;
+    }
+    #github-icon{
+        width:8vw;
+    }
+    #linkedin-icon{
+        width: 11vw;
+    }
+}
